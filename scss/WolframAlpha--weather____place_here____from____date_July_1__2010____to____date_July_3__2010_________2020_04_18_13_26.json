@@ -1,0 +1,55 @@
+{
+    "data": [
+        [
+            {
+                "time range": [
+                    [
+                        "2010-07-01"
+                    ],
+                    [
+                        "2010-07-03"
+                    ]
+                ],
+                "temperature": {
+                    "value": {
+                        "interval": {
+                            "min": 62,
+                            "max": 62
+                        }
+                    },
+                    "unit": "degrees Fahrenheit"
+                },
+                "conditions": [
+                    "rain",
+                    "overcast",
+                    "cloudy",
+                    "partly cloudy",
+                    "few clouds",
+                    "clear"
+                ],
+                "relative humidity": {
+                    "value": {
+                        "interval": {
+                            "min": 35,
+                            "max": 35
+                        }
+                    },
+                    "unit": "percent"
+                },
+                "wind speed": {
+                    "value": {
+                        "interval": {
+                            "min": 0,
+                            "max": 0
+                        }
+                    },
+                    "unit": "miles per hour"
+                }
+            }
+        ]
+    ],
+    "terms/info": {
+        "creator": "Wolfram|Alpha",
+        "terms_of_use": "http://www.wolframalpha.com/termsofuse.html"
+    }
+}
