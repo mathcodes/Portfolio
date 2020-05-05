@@ -4,5 +4,5 @@ This repo is home to my professional portfolio. If you are looking for a full st
 
 LINK TO DEPLOYED SITE: https://mathcodes.github.io/updatedPortfolio/
 
-![Portfolio Screenshot](/img/PortfolioScreenshot.png)
+![Portfolio Screenshot](/updatedPortfolio/img/PortfolioScreenshot.png)
 
