@@ -2,9 +2,6 @@
 
 LINK TO DEPLOYED SITE: https://mathcodes.github.io/updatedPortfolio/
 
-![Portfolio Screenshot](https://mathcodes.github.io/updatedPortfolio/img/headshot200x200.jpg)
-
-
 # Portfolio
 
 ![badge](https://img.shields.io/badge/Jon-atYOURservice-orange/)
@@ -25,15 +22,7 @@ This repo is home to my professional portfolio. If you are looking for a full st
 ## Installation
 Click around, take your time, and hit me up :+1: !
 ## Usage
-Just enjoy, and consider hiring me!!! You will not regret it :exclamation:
-## License
-NA
-## Contributing
-Be sure to :telephone_receiver: or :email: :exclamation:
-## Tests
-
-## Questions
-
+Just enjoy, and consider hiring me!!! You will not regret it :exclamation:  Be sure to :telephone_receiver: or :email: :exclamation:
 
 Name: __Jonathan P Christie__
 GitHub: [mathcodes](https://github.com/mathcodes)  
