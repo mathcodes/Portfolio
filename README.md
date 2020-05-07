@@ -11,12 +11,12 @@ LINK TO DEPLOYED SITE: https://mathcodes.github.io/updatedPortfolio/
 This repo is home to my professional portfolio. If you are looking for a full stack developer, look no further! [CLICK HERE](https://mathcodes.github.io/updatedPortfolio/) or on the link above to check it out!
 
 ## Table of Contents
-* [Description](#description),
-* [Installation](#installation),
-* [Usage](#usage),
-* [License](#license),
-* [Contributing](#contributing),
-* [Tests](#tests),
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
 * [Questions](#questions)
 
 ## Installation
