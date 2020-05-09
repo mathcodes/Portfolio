@@ -24,6 +24,9 @@ Click around, take your time, and hit me up :+1: !
 ## Usage
 Just enjoy, and consider hiring me!!! You will not regret it :exclamation:  Be sure to :telephone_receiver: or :email: :exclamation:
 
-Name: __Jonathan P Christie__
-GitHub: [mathcodes](https://github.com/mathcodes)  
-![Image of Me](https://avatars0.githubusercontent.com/u/17928947?v=4)
+| Name: __Jonathan P Christie__        |  ![Image of Me](https://avatars0.githubusercontent.com/u/17928947?v=4)       | GitHub: [mathcodes](https://github.com/mathcodes)       |
+| ------------- |:-------------:| -----:|
+
+
+
+
