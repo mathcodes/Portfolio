@@ -284,7 +284,6 @@ main#home h1 {
 
 .projects img {
     width: 100%;
-    opacity: 0.4;
     border: 3px #7D7D7D solid;
 }
 
@@ -292,6 +291,11 @@ main#home h1 {
     opacity: 1.0;
     border-color: #d35400;
     transition: all 0.5s ease-out;
+    -ms-transform: scale(1.2);
+    /* IE 9 */
+    -webkit-transform: scale(1.2);
+    /* Safari 3-8 */
+    transform: scale(1.2);
 }
 
 .boxes {
