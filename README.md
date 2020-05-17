@@ -11,11 +11,11 @@
 
 ## Description
 
-This repo is home to my professional portfolio. If you are looking for a full stack developer, look no further! [CLICK HERE](https://mathcodes.github.io/updatedPortfolio/) or on the link above to check it out!
+This repo is home to my professional portfolio. If you are looking for a full stack developer, look no further! I am currently in a Coding Boot Camp, covering all the skills needed to be a full stack developer. Use the link below to view my deployed portfolio.
 
 ## Link
 
-DEPLOYED SITE: https://mathcodes.github.io/updatedPortfolio/
+Deployed website: https://mathcodes.github.io/updatedPortfolio/
 
 ## Badges
 
