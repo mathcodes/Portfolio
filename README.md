@@ -1,29 +1,37 @@
 # Jon Christie's Portfolio
 
-LINK TO DEPLOYED SITE: https://mathcodes.github.io/updatedPortfolio/
-
-# Portfolio
-
-![badge](https://img.shields.io/badge/Skill-HTML-orange) ![badge](https://img.shields.io/badge/Skill-CSS-blue) ![badge](https://img.shields.io/badge/Skill-JS-yellow) ![badge](https://img.shields.io/badge/Skill-NodeJS-green/)
+## Table of Contents
+* [Description](#description)
+* [Link](#link)
+* [Badges](#badges)
+* [License](#license)
+* [Installation](#Installation)
+* [Usage](#usage)
+* [Questions](#questions)
 
 ## Description
 
 This repo is home to my professional portfolio. If you are looking for a full stack developer, look no further! [CLICK HERE](https://mathcodes.github.io/updatedPortfolio/) or on the link above to check it out!
 
-## Table of Contents
-* [Installation](#installation)
-* [Usage](#usage)
-* [License](#license)
-* [Contributing](#contributing)
-* [Tests](#tests)
-* [Questions](#questions)
+## Link
+
+DEPLOYED SITE: https://mathcodes.github.io/updatedPortfolio/
+
+## Badges
+
+![badge](https://img.shields.io/badge/Skill-HTML-orange) ![badge](https://img.shields.io/badge/Skill-CSS-blue) ![badge](https://img.shields.io/badge/Skill-JS-yellow) ![badge](https://img.shields.io/badge/Skill-NodeJS-green/)
+
+## License
+No licenses are associated with my portfolio at this time.
 
 ## Installation
-Click around, take your time, and hit me up :+1: !
-## Usage
-Contact me directly either using [my email](mailto:jonpchristie@gmail.com) or on github: [mathcodes](https://github.com/mathcodes).
+No installations are needed to view my portfolio.
 
-I look forward to hearing from you!
+## Usage
+Browse around and take your time. I hope you enjoy what you find. Feel free to contact me directly either using [my email](mailto:jonpchristie@gmail.com) or on github: [mathcodes](https://github.com/mathcodes).
+
+## Questions
+I look forward to hearing from you! Please do not hesitate to use the provided links to contact me with any questions. 
 
 ![Image of Me](https://avatars0.githubusercontent.com/u/17928947?v=4)
 
