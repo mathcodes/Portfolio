@@ -1,9 +1,9 @@
 # Jon Christie's Portfolio
+![badge](https://img.shields.io/badge/Skill-HTML-orange) ![badge](https://img.shields.io/badge/Skill-CSS-blue) ![badge](https://img.shields.io/badge/Skill-JS-yellow) ![badge](https://img.shields.io/badge/Skill-NodeJS-green/)
 
 ## Table of Contents
 * [Description](#description)
 * [Link](#link)
-* [Badges](#badges)
 * [License](#license)
 * [Installation](#Installation)
 * [Usage](#usage)
@@ -16,10 +16,6 @@ This repo is home to my professional portfolio. If you are looking for a full st
 ## Link
 
 Deployed website: https://mathcodes.github.io/updatedPortfolio/
-
-## Badges
-
-![badge](https://img.shields.io/badge/Skill-HTML-orange) ![badge](https://img.shields.io/badge/Skill-CSS-blue) ![badge](https://img.shields.io/badge/Skill-JS-yellow) ![badge](https://img.shields.io/badge/Skill-NodeJS-green/)
 
 ## License
 No licenses are associated with my portfolio at this time.
