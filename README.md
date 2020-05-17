@@ -4,7 +4,7 @@ LINK TO DEPLOYED SITE: https://mathcodes.github.io/updatedPortfolio/
 
 # Portfolio
 
-![badge](https://img.shields.io/badge/Jon-atYOURservice-orange/)
+![badge](https://img.shields.io/badge/Skill-HTML-orange) ![badge](https://img.shields.io/badge/Skill-CSS-blue) ![badge](https://img.shields.io/badge/Skill-JS-yellow) ![badge](https://img.shields.io/badge/Skill-NodeJS-green/)
 
 ## Description
 
@@ -22,10 +22,13 @@ This repo is home to my professional portfolio. If you are looking for a full st
 ## Installation
 Click around, take your time, and hit me up :+1: !
 ## Usage
-Just enjoy, and consider hiring me!!! You will not regret it :exclamation:  Be sure to :telephone_receiver: or :email: :exclamation:
+Contact me directly either using [my email](mailto:jonpchristie@gmail.com) or on github: [mathcodes](https://github.com/mathcodes).
 
-| Name: __Jonathan P Christie__        |  ![Image of Me](https://avatars0.githubusercontent.com/u/17928947?v=4)       | GitHub: [mathcodes](https://github.com/mathcodes)       |
-| ------------- |:-------------:| -----:|
+I look forward to hearing from you!
+
+![Image of Me](https://avatars0.githubusercontent.com/u/17928947?v=4)
+
+__Jon Christie__ 
 
 
 
