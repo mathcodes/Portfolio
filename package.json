@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Baconbits1204/Professional-Portfolio.git"
+    "url": "git+https://github.com/mathcodes/Professional-Portfolio.git"
   },
-  "author": "Rafael Hermoso",
+  "author": "Jonathan Christie",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Baconbits1204/Professional-Portfolio/issues"
+    "url": "https://github.com/mathcodes/Professional-Portfolio/issues"
   },
-  "homepage": "https://github.com/Baconbits1204/Professional-Portfolio#readme",
+  "homepage": "https://github.com/mathcodes/Professional-Portfolio#readme",
   "dependencies": {
-    "node-sass": "^4.13.0"
+    "node-sass": "^4.13.0"  
   }
 }
