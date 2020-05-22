@@ -79,11 +79,10 @@
 }
 
 .menu-branding .portrait {
-    width: 250px;
-    height: 250px;
+    width: 300px;
     background: url("img/headshot200x200.jpg");
     border-radius: 50%;
-    border: solid 3px #d35400;
+    border: solid 5px #d35400;
 }
 
 .menu .nav-item {
@@ -146,22 +145,23 @@ body {
 }
 
 body#bg-img {
-    background: url("https://www.nasa.gov/sites/default/files/thumbnails/image/blackmarble2016-1500px_0.jpg");
+    background: url(img\nightworld1920x1080.png);
     background-attachment: fixed;
     background-size: cover;
     background-repeat: repeat-y;
 }
 
-body#bg-img:after {
+
+/* body#bg-img:after {
     content: '';
     position: absolute;
     top: 0;
     right: 0;
-    width: 100%;
-    height: 100%;
+    width: 70%;
+    height: 70%;
     z-index: -1;
     background: rgba(28, 28, 28, 0.9);
-}
+} */
 
 h1,
 h2,
@@ -247,9 +247,10 @@ main#home h1 {
 
 .about-info .bio-image {
     grid-area: bioimage;
+    width: 300px;
     margin: auto;
     border-radius: 50%;
-    border: #d35400 3px solid;
+    border: #d35400 7px solid;
     background-size: auto;
 }
 
@@ -411,7 +412,7 @@ main#home h1 {
         transform: translate3d(100%, 0, 0);
     }
     .menu-branding .portrait {
-        background: url("img/headshot200x200.jpg");
+        background: url("img/headshot.jpg");
         width: 200;
         height: 200;
         background-size: contain !important;
