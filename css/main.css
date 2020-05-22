@@ -135,13 +135,17 @@
 }
 
 body {
-    background: #1C1C1C;
+    /* background: #1C1C1C; */
     color: #ffffff;
     height: 100%;
     width: 100%;
     margin: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    line-height: 1.5;
+    line-height: 10;
+}
+
+.bio {
+    font-weight: lighter;
 }
 
 body#bg-img {
@@ -167,7 +171,7 @@ h1,
 h2,
 h3 {
     margin: 0;
-    font-weight: 400;
+    font-weight: inherit;
 }
 
 h1.lg-heading,
@@ -213,7 +217,7 @@ header {
 }
 
 main {
-    padding: 4rem;
+    padding: 10px;
     min-height: calc(100vh - 60px);
 }
 
@@ -444,7 +448,7 @@ main#home h1 {
         width: 100%;
     }
     main .lg-heading {
-        margin-top: 1rem;
+        margin-top: 5px;
         font-size: 5rem;
     }
     #main-footer {
