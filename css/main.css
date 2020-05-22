@@ -145,7 +145,7 @@ body {
 }
 
 body#bg-img {
-    background: url(img\nightworld1920x1080.png);
+    background: url("https://github.com/mathcodes/updatedPortfolio/blob/master/img/nightworld1920x1080.png?raw=true");
     background-attachment: fixed;
     background-size: cover;
     background-repeat: repeat-y;
