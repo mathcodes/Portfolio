@@ -141,7 +141,6 @@ body {
     width: 100%;
     margin: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    line-height: 10;
 }
 
 .bio {
@@ -218,7 +217,7 @@ header {
 
 main {
     padding: 10px;
-    min-height: calc(100vh - 60px);
+    /* min-height: calc(100vh - 60px); */
 }
 
 main .icons {
