@@ -79,7 +79,7 @@
 }
 
 .menu-branding .portrait {
-    width: 300px;
+    width: 150px;
     border-radius: 50%;
     border: solid 5px #d35400;
 }
@@ -148,7 +148,7 @@ body {
 
 .body,
 .bg-img {
-    /* background-image: href="https://github.com/mathcodes/updatedPortfolio/blob/master/img/nightworld1920x1080.png?raw=true"; */
+    background-image: href="https://github.com/mathcodes/updatedPortfolio/blob/master/img/nightworld1920x1080.png?raw=true";
     background-attachment: fixed;
     background-size: cover;
     background-repeat: repeat-y;
@@ -230,7 +230,7 @@ main .icons a {
     transition: all 0.5s ease-out;
 }
 
-main .icons a:hover {
+main .icons {
     color: #d35400;
 }
 
