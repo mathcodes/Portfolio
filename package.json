@@ -1,24 +1,22 @@
 {
-    "name": "professional-portfolio",
-    "version": "1.0.3",
-    "description": "web-dev portfolio",
-    "main": "index.js",
-    "scripts": {
-        "sass": "node-sass -w scss/ -o dist/css/ --recursive",
-        "start": "node server.js"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/mathcodes/Professional-Portfolio.git"
-    },
-    "author": "Rafael Hermoso",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/mathcodes/Professional-Portfolio/issues"
-    },
-    "homepage": "https://github.com/mathcodes/Professional-Portfolio#readme",
-    "dependencies": {
-        "express": "^4.17.1",
-        "node-sass": "^4.13.0"
-    }
+  "name": "professional-portfolio",
+  "version": "1.0.0",
+  "description": "web-dev portfolio",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Baconbits1204/Professional-Portfolio.git"
+  },
+  "author": "Rafael Hermoso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Baconbits1204/Professional-Portfolio/issues"
+  },
+  "homepage": "https://github.com/Baconbits1204/Professional-Portfolio#readme",
+  "dependencies": {
+    "node-sass": "^4.13.0"
+  }
 }
