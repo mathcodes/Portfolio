@@ -136,7 +136,7 @@
 }
 
 body {
-    background: #1C1C1C;
+    /* background: #1C1C1C; */
     color: #ffffff;
     height: 100%;
     width: 100%;
@@ -146,21 +146,14 @@ body {
 }
 
 body#bg-img {
-    background: url("https://www.nasa.gov/sites/default/files/thumbnails/image/blackmarble2016-1500px_0.jpg");
+    background: url("./img/bgGlobe-01.png");
     background-attachment: fixed;
     background-size: cover;
     background-repeat: repeat-y;
 }
 
-body#bg-img:after {
-    content: '';
-    position: absolute;
-    top: 0;
-    right: 0;
-    width: 100%;
-    height: 100%;
-    z-index: -1;
-    background: rgba(28, 28, 28, 0.9);
+#bg-img:after {
+    opacity: .5;
 }
 
 h1,
@@ -195,6 +188,7 @@ a:hover {
 
 .box-title {
     text-align: center;
+    font-size: x-small;
 }
 
 header {
@@ -327,7 +321,6 @@ main#home h1 {
     display: block;
     padding: 0.5rem 1rem;
     border: 0;
-    margin-bottom: 0.3rem;
 }
 
 .btn:hover,
