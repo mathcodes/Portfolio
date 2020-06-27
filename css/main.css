@@ -185,12 +185,12 @@ h3.sm-heading {
 }
 
 a {
-    color: #0EF9D6;
+    color: #d35400;
     text-decoration: none;
 }
 
 a:hover {
-    color: #7D7D7D;
+    color: #0EF9D6;
 }
 
 .box-title {
