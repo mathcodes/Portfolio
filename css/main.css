@@ -146,7 +146,7 @@ body {
 }
 
 body#bg-img {
-    background: url("https://github.com/mathcodes/updatedPortfolio/blob/master/img/bgGlobe-01.png?raw=true");
+    background: url("https://github.com/mathcodes/updatedPortfolio/blob/master/img/bgGlobe-85-01.png?raw=true");
     background-attachment: fixed;
     background-size: cover;
     background-repeat: repeat-y;
@@ -159,7 +159,6 @@ body#bg-img {
 h1,
 h2,
 h3 {
-    margin: 0;
     font-weight: 400;
 }
 
@@ -401,8 +400,8 @@ main#home h1 {
     }
     .menu-branding .portrait {
         background: url("img/headshot200x200.jpg");
-        width: 200;
-        height: 200;
+        width: 100px;
+        height: 100px;
         background-size: contain !important;
     }
     .about-info {
