@@ -146,7 +146,7 @@ body {
 }
 
 body#bg-img {
-    background: url("./img/bgGlobe-01.png");
+    background: url("https://github.com/mathcodes/updatedPortfolio/blob/master/img/bgGlobe-01.png?raw=true");
     background-attachment: fixed;
     background-size: cover;
     background-repeat: repeat-y;
