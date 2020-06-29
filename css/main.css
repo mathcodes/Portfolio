@@ -162,11 +162,13 @@ h3 {
     font-weight: 400;
 }
 
+
+/* 
 h1.lg-heading,
 h2.lg-heading,
 h3.lg-heading {
     font-size: 6rem;
-}
+} */
 
 h1.sm-heading,
 h2.sm-heading,
@@ -240,7 +242,6 @@ main#home h1 {
 
 .about-info .bio-image {
     grid-area: bioimage;
-    margin: auto;
     border-radius: 50%;
     border: #d35400 3px solid;
     background-size: auto;
