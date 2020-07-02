@@ -69,8 +69,9 @@ body {
 }
 
 body#bg-img {
-    background: url("https://adwallpapers.xyz/uploads/posts/5208-empty-room-with-dark-background.jpg");
-    /* background: url("https://dovethemes.com/wp-content/uploads/2016/11/Dark-Line-Surface-Background.jpg"); */
+    /* background: url("http://www.seekgif.com/uploads/2017/05/info-wallpapers-wallpaper-black-background-33.jpeg");
+    background: url("https://lesilets.com/wp-content/uploads/2018/04/1096907-cool-dark-background-2560x1600-for-tablet.jpg"); */
+    background: url("https://dovethemes.com/wp-content/uploads/2016/11/Dark-Line-Surface-Background.jpg");
     background-attachment: fixed;
     background-size: cover;
     background-repeat: repeat-y;
@@ -80,7 +81,11 @@ body#bg-img {
     opacity: .5;
 }
 
-h1,
+h1 {
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
 h2,
 h3,
 h4 {
@@ -112,6 +117,7 @@ a {
 .social {
     position: relative;
     display: inline-block;
+    margin: 0px 5px;
 }
 
 .social .img-top {
@@ -155,8 +161,18 @@ header {
     color: #d35400;
 }
 
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    /* font-weight: bold; */
+}
+
 main {
-    padding: 2rem;
+    padding: 10px;
     min-height: calc(100vh - 60px);
 }
 
@@ -182,7 +198,7 @@ main#home {
     display: grid;
     grid-gap: 30px;
     grid-template-areas: 'bioimage bio bio' 'job1 job2 job3';
-    grid-template-columns: repeat(3, 1fr);
+    /* grid-template-columns: repeat(3, 1fr); */
 }
 
 .about-info .bio-image {
@@ -267,6 +283,7 @@ main#home {
     padding: 0.1rem 0.1rem;
     border: 0;
     text-align: center;
+    margin-bottom: 5px;
 }
 
 .btn:hover,
@@ -351,13 +368,14 @@ main#home {
     }
     .menu-branding .portrait {
         background: url("img/headshot200x200.jpg");
-        width: 100px;
-        height: 100px;
+        width: 70px;
+        height: 70px;
         background-size: contain !important;
     }
     .about-info {
         grid-template-areas: 'bioimage' 'bio' 'job1' 'job2' 'job3';
         grid-template-columns: 1fr;
+        display: inherit;
     }
     .projects {
         grid-template-columns: repeat(2, 1fr);
@@ -382,26 +400,35 @@ main#home {
         font-size: 2rem;
     }
     #main-footer {
-        width: 130%;
+        width: 100%;
     }
     .projects {
         grid-template-columns: 1fr;
+    }
+    .about.info {
+        display: inherit;
     }
     /* //hide pipes one on top o feach other with everything in its own span text-align: OR makes 2 footers show hide */
     .main-footer {
         display: none;
     }
-    .0
+    .menu-branding .portrait {
+        background: url("img/headshot200x200.jpg");
+        width: 50px;
+        height: 50px;
+        background-size: contain !important;
+    }
 }
 
-
-}
 
 /* //coudl make span tag to display vertically with hide show (none, block)*/
 
+
 /* span tags are inline */
 
+
 /* block means 100% width */
+
 button.id {
     background-color: #000;
     color: black;
