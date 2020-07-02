@@ -69,7 +69,8 @@ body {
 }
 
 body#bg-img {
-    background: url("https://dovethemes.com/wp-content/uploads/2016/11/Dark-Line-Surface-Background.jpg");
+    background: url("https://adwallpapers.xyz/uploads/posts/5208-empty-room-with-dark-background.jpg");
+    /* background: url("https://dovethemes.com/wp-content/uploads/2016/11/Dark-Line-Surface-Background.jpg"); */
     background-attachment: fixed;
     background-size: cover;
     background-repeat: repeat-y;
@@ -378,7 +379,7 @@ main#home {
     }
     main .lg-heading {
         margin-top: 1rem;
-        font-size: 5rem;
+        font-size: 2rem;
     }
     #main-footer {
         width: 130%;
@@ -386,8 +387,21 @@ main#home {
     .projects {
         grid-template-columns: 1fr;
     }
+    /* //hide pipes one on top o feach other with everything in its own span text-align: OR makes 2 footers show hide */
+    .main-footer {
+        display: none;
+    }
+    .0
 }
 
+
+}
+
+/* //coudl make span tag to display vertically with hide show (none, block)*/
+
+/* span tags are inline */
+
+/* block means 100% width */
 button.id {
     background-color: #000;
     color: black;
