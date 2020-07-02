@@ -301,29 +301,41 @@ h3.lg-heading {
                     width: 50%;
                     height: 25px;
                     background: white;
-                    color: black;
+                    color: #d35400;
+                    opacity: 50%;
                     float: right;
                     text-align: center;
-                    padding-top: .5%;
+                    padding-top: 2%;
+                }
+                
+                .fa-linkedin {
+                    color:
                 }
                 
                 i.fas {
                     width: 50%;
                     height: 25px;
-                    background: black;
+                    background: #d35400;
+                    opacity: 50%;
                     color: white;
                     float: right;
                     text-align: center;
-                    padding-top: .5%;
+                    padding-top: 1.5%;
                 }
                 
-                i.fab:hover,
+                i.fab:hover {
+                    background: #d35400;
+                    color: #fff;
+                    opacity: 100%;
+                }
+                
                 i.fas:hover,
                 .btn:hover,
                 .btn-dark:hover,
                 .btn-light:hover {
                     background: #d35400;
                     color: #000;
+                    opacity: 100%;
                 }
                 /* .btn-dark {
     background: black;
