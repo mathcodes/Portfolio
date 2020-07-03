@@ -88,7 +88,8 @@
                 
                 h2,
                 h3,
-                h4 {
+                h4,
+                h5 {
                     font-weight: 400;
                 }
                 /* 
@@ -324,8 +325,8 @@ h3.lg-heading {
                 }
                 
                 i.fab:hover {
-                    background: #d35400;
-                    color: #fff;
+                    background: #0EF9D6;
+                    color: #000;
                     opacity: 100%;
                 }
                 
@@ -333,7 +334,7 @@ h3.lg-heading {
                 .btn:hover,
                 .btn-dark:hover,
                 .btn-light:hover {
-                    background: #d35400;
+                    background: #0EF9D6;
                     color: #000;
                     opacity: 100%;
                 }
