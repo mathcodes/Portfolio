@@ -4,19 +4,13 @@ LINK TO DEPLOYED SITE: https://mathcodes.github.io/updatedPortfolio/
 
 # Portfolio
 
-![badge](https://img.shields.io/badge/Jon-atYOURservice-orange/)
+![node](https://img.shields.io/skill/NodeJS-green) ![HTML](https://img.shields.io/skill/HTML-orange) ![CSS](https://img.shields.io/skill/CSS-yellow) ![JS](https://img.shields.io/skill/Javascript-Yellow) ![Sass](https://img.shields.io/skill/Sass-pink) 
+
+
 
 ## Description
 
 This repo is home to my professional portfolio. If you are looking for a full stack developer, look no further! [CLICK HERE](https://mathcodes.github.io/updatedPortfolio/) or on the link above to check it out!
-
-## Table of Contents
-* [Description](#description)
-* [Installation](#installation)
-* [Usage](#usage)
-* [License](#license)
-* [Contributing](#contributing)
-* [Questions](#questions)
 
 ## Installation
 No installation required. Here is the link to the deployed porfolio: https://mathcodes.github.io/updatedPortfolio/
