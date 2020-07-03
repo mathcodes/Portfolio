@@ -2,11 +2,7 @@
 
 LINK TO DEPLOYED SITE: https://mathcodes.github.io/updatedPortfolio/
 
-# Portfolio
-
-![node](https://img.shields.io/skill/NodeJS-green) ![HTML](https://img.shields.io/skill/HTML-orange) ![CSS](https://img.shields.io/skill/CSS-yellow) ![JS](https://img.shields.io/skill/Javascript-Yellow) ![Sass](https://img.shields.io/skill/Sass-pink) 
-
-
+![badge](https://img.shields.io/badge/Skill-HTML-orange) ![badge](https://img.shields.io/badge/Skill-CSS-blue) ![badge](https://img.shields.io/badge/Skill-JS-yellow) ![badge](https://img.shields.io/badge/Skill-nodejs-green) ![badge](https://img.shields.io/badge/Skill-Sass-pink)
 
 ## Description
 
