@@ -269,7 +269,7 @@ main#home {
 
 .boxes div {
     font-size: 2rem;
-    border: 3px #7D7D7D solid;
+    border: 3px #d35400 solid;
     /* padding: .2rem 1rem; */
     margin-bottom: 1rem;
     transition: all 1.5s cubic-bezier(0.49, 3.93, 0.93, 1.48);
@@ -359,6 +359,7 @@ i.fa-power-off:hover,
     background: #0EF9D6;
     color: #000;
     opacity: 100%;
+    z-index: 5;
 }
 
 
@@ -510,7 +511,8 @@ i.fa-power-off:hover,
 /* span tags are inline */
 
 /* block means 100% width */
-@import url(https://fonts.googleapis.com/css?family=Raleway);
+
+/* @import url(https://fonts.googleapis.com/css?family=Raleway); */
 *,
 *:before,
 *:after {
@@ -523,7 +525,7 @@ i.fa-power-off:hover,
 body {
     background: #f9f9f9;
     font-size: 16px;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .main-title {
     color: #2d2d2d;
@@ -611,52 +613,7 @@ body {
 .fadeIn-top {
     top: 20%;
 }
-
-/* ---------------------------------------------- */
-
-/* ---------------------------------------------- */
-
-/* ----------------------------------------------
-* {
-    box-sizing: border-box;
-}
-.container {
-    position: relative;
-    width: 50%;
-    max-width: 300px;
-}
-.image {
-    display: block;
-    width: 100%;
-    height: auto;
-}
-.overlay {
-    position: absolute;
-    bottom: 0;
-    background: rgb(0, 0, 0);
-    background: rgba(0, 0, 0, 0.7);
-    /* Black see-through */
-
-/*
-    color: #f1f1f1;
-    width: 100%;
-    transition: .5s ease;
-    opacity: 0;
-    color: white;
-    font-size: 20px;
-    padding: 20px;
-    text-align: center;
-}
-.container:hover .overlay {
-    opacity: .7;
-} */
-
-/* ---------------------------------------------- */
-
-/* ---------------------------------------------- */
-
-/* ---------------------------------------------- */
-<!DOCTYPE html><html><head><meta name="viewport" content="width=device-width, initial-scale=1"><style>.accordion {
+.accordion {
     background-color: #eee;
     color: #444;
     cursor: pointer;
@@ -686,7 +643,8 @@ body {
     text-align: center;
     width: 100%;
     border: #d35400;
-    border-width: 2px;
+    /* border-width: 2px; */
+    
     text-align: left;
     outline: none;
     font-size: 2%;
@@ -700,6 +658,35 @@ body {
     color: white;
     padding: 0 18px;
     display: none;
-    background-color: #333333;
+    background-color: #111111;
     overflow: hidden;
+}
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+}
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: RGB(0, 0, 0, 0.4);
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    /* Position the tooltip */
+    
+    position: absolute;
+    z-index: 1;
+    top: 100%;
+    left: 50%;
+    margin-left: -60px;
+}
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+.accHeader {
+    color: #d35400;
+    font-weight: bold;
+    padding: 5% 0;
 }
