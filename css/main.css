@@ -252,7 +252,7 @@ main#home {
 }
 
 .projects img:hover {
-    opacity: .4;
+    opacity: .1;
     border-color: #d35400;
     transition: all 0.5s ease-out;
 }
@@ -572,6 +572,8 @@ body {
     width: 100%;
 }
 .content-details {
+    color: white;
+    text-shadow: black;
     position: absolute;
     text-align: center;
     padding-left: 1em;
