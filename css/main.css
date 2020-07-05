@@ -85,7 +85,7 @@ h2,
 h3,
 h4,
 h5 {
-    font-weight: 400;
+    font-weight: 200;
 }
 
 
@@ -145,7 +145,7 @@ a:hover {
 
 .box-exp {
     text-align: left;
-    font-size: .1%;
+    font-size: .5%;
 }
 
 .box-title {
@@ -171,6 +171,7 @@ header {
 h1 {
     display: block;
     font-size: 6em;
+    font-weight: 100;
     margin-block-start: 0em;
     margin-block-end: 0em;
     margin-inline-start: 0px;
@@ -593,13 +594,6 @@ body {
     top: 50%;
     left: 50%;
     opacity: 1;
-}
-.content-details h6 {
-    color: #564684;
-    font-weight: 500;
-    letter-spacing: 0.15em;
-    margin-bottom: 0.5em;
-    text-transform: uppercase;
 }
 .content-details p {
     color: #363363;
