@@ -81,11 +81,6 @@ body#bg-img {
     opacity: .5;
 }
 
-h1 {
-    font-size: 1.5rem;
-    font-weight: 400;
-}
-
 h2,
 h3,
 h4,
@@ -144,9 +139,13 @@ a:hover {
     scale: 120%;
 }
 
+.pInfo {
+    font-size: 0.1%;
+}
+
 .box-exp {
     text-align: left;
-    font-size: x-small;
+    font-size: .1%;
 }
 
 .box-title {
@@ -171,7 +170,7 @@ header {
 
 h1 {
     display: block;
-    font-size: 2em;
+    font-size: 6em;
     margin-block-start: 0em;
     margin-block-end: 0em;
     margin-inline-start: 0px;
@@ -321,10 +320,6 @@ i.fab {
     padding-bottom: 1%;
 }
 
-.fa-linkedin {
-    color:
-}
-
 
 /* Enter App fa fas */
 
@@ -367,10 +362,6 @@ i.fas:hover,
     grid-gap: 10px;
     grid-template-columns: 35% minmax(200px, 1fr);
     color: #d35400;
-}
-
-.form-group {
-    width: auto;
 }
 
 .main-footer {
