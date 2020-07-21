@@ -511,8 +511,6 @@ i.fa-power-off:hover,
     color: white;
 }
 
-.btnAbout {}
-
 
 /* //coudl make span tag to display vertically with hide show (none, block)*/
 
@@ -660,7 +658,7 @@ body {
 .panel {
     padding: 0 18px;
     display: none;
-    background-color: white;
+    background: none;
     overflow: hidden;
 }
 

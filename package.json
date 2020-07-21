@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Baconbits1204/Professional-Portfolio#readme",
   "dependencies": {
-    "node-sass": "^4.13.0"
+    "node-sass": "^4.13.0",
+    "lodash": ">=4.17.19"
   }
 }
